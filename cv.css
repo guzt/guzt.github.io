@@ -371,9 +371,11 @@ input[type='checkbox'].collapse_toggle {
 		font-size: smaller;
 	}
 
+	/*
 	a[href]:after {
 		content: " [" attr(href) "] ";
 	}
+	 */
 
 	.resumeHeader .icons {
 		display:none;
