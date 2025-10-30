@@ -163,7 +163,7 @@ dt:before {
 }
 
 .resumeContent .publication:before {
-	content: attr(authors) ". ";
+	content: attr(authors);
 	font-variant: normal;
 	color: #333;
 }
